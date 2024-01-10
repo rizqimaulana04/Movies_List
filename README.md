@@ -4,6 +4,7 @@
 |----------------|
 |Muhammad Rizqi Maulana (312210360)|
 |Afrizal Fajrianto Anggara (312210449)|
+|Sandy Ramadhan (312210633)|
 ||
 
 Membangun aplikasi web Sistem Rekomendasi Film menggunakan framework Django dan teknik rekomendasi yang disebut Collaborative Filtering - Algoritma Matrix Factorization.
